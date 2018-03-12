@@ -1,4 +1,4 @@
-INR Cryptocurrency Ticker developed on Coinbasemap API and  REACT.
+INR Cryptocurrency Ticker developed on coinmarketcap API and  REACT.
 
 LIVE PREVIEW: https://dwivedithedev.github.io/cryptoticker/
 
